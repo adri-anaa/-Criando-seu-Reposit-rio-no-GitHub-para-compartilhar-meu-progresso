@@ -28,7 +28,4 @@ sobre as boas práticas de padrões de projetos mais usados na meio com intuito 
 
 Pude adentrar também no universo do SQL Server, fazendo as primeiras consultas SQL na prática. Além disso SQl Server em bancos realcionais foram indicados.
 
-Por último e não menos importante, tiveram as lives oferecidas durante a realização do Bootcampp. De início a Mentoria, aula inaugural com Kainã Barros. A outra mentoria seria com Adriana Silva, no entanto Dri não pode e Kainã assumiu o comando, brilhatemente.
-Felipe Aguiar também contribuiu de forma esssencial com sua mentoria tirando dúvivas sobre a progamação a objetos com exemplos do dia a dia, práticos.
-A mentoria sobre a Inclusão e Diversidade na Avanade que deu Show com ilustres presenças, parabéns meninas! Pude aprender muito, obrigada!
-E sem falar as mentorias com Victor Fructuoso, exemplo de profissional, parabéns pela dedicação.
+Por último e não menos importante, tiveram as lives oferecidas durante a realização do Bootcamp, eram mentorias onde os profissionais contrubuíram com excelência questões mais específicas sobre o desenvolvimento de software. Dentre eles, tivemos a participação de Victor Fructuoso, Felipe Aguiar, Enir Souza, Kainã Barros, além de outros.
