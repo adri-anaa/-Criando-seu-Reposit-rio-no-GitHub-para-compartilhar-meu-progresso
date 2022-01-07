@@ -28,4 +28,5 @@ sobre as boas práticas de padrões de projetos mais usados na meio com intuito 
 
 Pude adentrar também no universo do SQL Server, fazendo as primeiras consultas SQL na prática. Além disso SQl Server em bancos realcionais foram indicados.
 
-Por último e não menos importante, tiveram as lives oferecidas durante a realização do Bootcamp, eram mentorias onde os profissionais contrubuíram com excelência questões mais específicas sobre o desenvolvimento de software. Dentre eles, tivemos a participação de Victor Fructuoso, Felipe Aguiar, Enir Souza, Kainã Barros, além de outros.
+Por último e não menos importante, tiveram as lives oferecidas durante a realização do Bootcamp, eram mentorias onde os profissionais contrubuíram com excelência questões mais específicas sobre o desenvolvimento de software. Dentre eles, tivemos a participação de Victor Fructuoso, Felipe Aguiar, Enir Souza, Kainã Barros, além de outros. 
+Com isso, apresento-lhes também alguns códigos soluções dos desafios propostos no bootcamp.
