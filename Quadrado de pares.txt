@@ -1,0 +1,17 @@
+using System; 
+
+class DIO {
+
+    static void Main(string[] args) { 
+
+      int n = int.Parse(Console.ReadLine());
+            for(int i=2; i<=n;i+=2          )
+            {
+                int b =i    ;          //escreva o seu código nos espaços em branco
+                int c = 2         ;
+                Console.WriteLine(b + "^" + c + " = " + (b * b));
+            }
+
+    }
+
+}
